@@ -6,7 +6,8 @@ An independent evidence synthesis on governing consequential AI-agent actions th
 
 - [Final report and executive summary](FINAL-REPORT.md): conclusions, H1–H4 dispositions, counterarguments and limitations.
 - [Practical architecture checklist](CHECKLIST.md): questions to use in a design review.
-- [Evidence and confidence matrix](EVIDENCE.md): representative sources, dates, evidence classes and limits.
+- [Evidence and confidence matrix](EVIDENCE.md): representative sources directly supporting the closing argument.
+- [Full investigation bibliography](BIBLIOGRAPHY.md): 405 deduplicated references across the archived investigation, with citation dates and recorded caveat flags.
 - [Optional validation plan](VALIDATION.md): a proposed comparison, not executed results.
 
 ## Main conclusion
