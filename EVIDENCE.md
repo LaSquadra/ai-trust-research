@@ -1,5 +1,7 @@
 ## Claim, evidence, confidence
 
+This is a **selected, conclusion-bearing matrix**, not the full source inventory. See the [full investigation bibliography](BIBLIOGRAPHY.md) for the broader archive, including background and qualified references.
+
 “Confidence” below distinguishes confidence in the reported source finding from confidence in this project’s architectural interpretation. These are qualitative judgments, not measured probabilities.
 
 | Claim or finding | Evidence and source class | What it supports | Limits and confidence |
