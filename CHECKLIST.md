@@ -14,3 +14,5 @@ Review aid, not certification.
 | Recovery | Can restoration revive revoked authority or duplicate committed effects? |
 | Proportionality | Can unrelated safe work continue? What latency, false blocking and sensitive retention are added? |
 | Simplicity | What outcome improves over receiver-local controls alone? |
+
+For a concrete application, see the [illustrative worked example](WORKED-EXAMPLE.md). For term definitions and the limits of these questions, see the [report](FINAL-REPORT.md#terms-used-in-this-report).
