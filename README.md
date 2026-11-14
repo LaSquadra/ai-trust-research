@@ -35,7 +35,9 @@ This is personal independent research, not an employer-endorsed product. Establi
 
 ## Reuse and sources
 
-No original-material license has been selected. No license grant is implied. Third-party sources are linked for attribution and remain subject to their own terms. See the evidence matrix for source-specific qualifications.
+Copyright © 2026 Ryan Kroetch. Except where otherwise noted, the original research text, diagrams, checklists and other original documentation in this repository are licensed under the [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE) for the full terms.
+
+Attribute Ryan Kroetch and this project, link to the license, and indicate modifications. Attribution must not imply endorsement. Linked or quoted third-party material is excluded from this license grant and remains subject to its own rights and terms.
 
 ## Citation and feedback
 See [CITATION.md](CITATION.md) for a suggested citation. Technical corrections and counterexamples are welcome through issues or pull requests. Please identify the claim, supporting evidence and relevant limits; do not submit secrets or employer/customer information. No response-time or ongoing maintenance commitment is implied.
