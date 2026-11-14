@@ -1,6 +1,6 @@
 # Suggested citation
 
-LaSquadra. (2026). *AI Trust Research: From Authority to Action*. Evidence-synthesis edition, November 13, 2026. https://github.com/LaSquadra/ai-trust-research
+Ryan Kroetch. (2026). *AI Trust Research: From Authority to Action*. Evidence-synthesis edition, November 13, 2026. https://github.com/LaSquadra/ai-trust-research
 
 For an exact revision, use the commit permalink for the file cited and include the full commit SHA and your access date. The edition date identifies the research closeout, not a claim that every file has remained unchanged since that date.
 
